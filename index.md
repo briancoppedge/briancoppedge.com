@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/briancoppedge/briancoppedge.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Please feel free to take a look around and get to know me a bit. You can find information regarding my professional experience, hobbies and interests. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A true native of Colorado, I now call Dallas, Texas home. I live with my beautiful wife, Jess, and my fledgling bonsai tree, Rex, that I planted from a stocking stuffer I received for Christmas this year...if he grows big and strong enough, I think I'll shape him into a tyrannosaurus rex.
 
-```markdown
-Syntax highlighted code block
+Jess and I love traveling and have been to 25-30 countries each. We also enjoy hiking, picnicing, dancing and making fun music videos. 
 
-# Header 1
-## Header 2
-### Header 3
+But, the most important thing to know about me is that I am follower of Christ. I won't bother if you don't, but I thoroughly enjoy spiritual conversations and would love to have one with you!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Professional Experience
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/briancoppedge/briancoppedge.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Hobbies
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"Traveling" usually feels like a cop-out answer, but I've been to 31 countries and counting, so I feel like it's legit. Where's my favorite place I have been you ask? That's tough, but I think Table Mountain in Cape Town, South Africa has some of the best views you could ask for! And, I've spent a lot of time in India, so I've gotta say the Taj Mahal is pretty cool, too. 
+
+
+### Interests
+I've recently taken an interest in web development, and this little site is the result. 
