@@ -13,7 +13,7 @@ But, the most important thing to know about me is that I am follower of Christ. 
 
 ### Professional Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/briancoppedge/briancoppedge.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+As a seasoned and innovative leader with significant cross-cultural experience, I desire to leverage my management, communication and problem solving skills to advance key objectives and improve organizational effectiveness.
 
 ### Hobbies
 
