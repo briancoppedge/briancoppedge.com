@@ -1,4 +1,3 @@
-Theme: jekyll-theme-Cayman
-Layout: default
+## About Me
 
 This page is all about me!
