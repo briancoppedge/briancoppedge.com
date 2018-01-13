@@ -1,3 +1,9 @@
+---
+layout: info
+Title: Brian D Coppedge
+Description: Explore | Create | Pursue
+---
+
 ## About Brian
 
 A true native of Colorado, I now call Dallas, Texas home. I live here with my beautiful wife, Jess, and my fledgling bonsai tree, Rex,  which I planted from a Christmas stocking stuffer...if he grows big and strong enough, I think I'll shape him into a Tyrannosaurus.
