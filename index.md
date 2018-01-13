@@ -11,7 +11,7 @@ Please feel free to take a look around and get to know me a bit. You can find in
 
 ### About Me
 
-A true native of Colorado, I now call Dallas, Texas home. I live with my beautiful wife, Jess, and my fledgling bonsai tree, Rex, that I planted from a stocking stuffer I received for Christmas this year...if he grows big and strong enough, I think I'll shape him into a tyrannosaurus rex.
+A true native of Colorado, I now call Dallas, Texas home. I live here with my beautiful wife, Jess, and my fledgling bonsai tree, Rex, that I planted from a stocking stuffer I received for Christmas this year...if he grows big and strong enough, I think I'll shape him into a tyrannosaurus rex.
 
 Jess and I love traveling and have been to 25-30 countries each. We also enjoy hiking, picnicing, dancing and making fun music videos. 
 
